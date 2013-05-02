@@ -2,7 +2,7 @@ Combining GPS and strong motion time series
 
 Diego Melgar, 01/2013
 
-The zip file contains two main m-files, kalmand() is a simple forward Kalman filter and kalmans() is a forward filter plus a smoother. Just copy the zip file into your matlab path and unpackage.
+This repository  contains two main m-files, kalmand() is a simple forward Kalman filter and kalmans() is a forward filter plus a smoother. Just download the files into your matlab path.
 
 For information on the inner workings of the filter or if you use the algorithm please reference:
 
